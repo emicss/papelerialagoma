@@ -1,0 +1,1 @@
+alert('¡Bienvenido a Papelería La Goma!!')
